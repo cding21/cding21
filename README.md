@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @cding21
 - 👀 I’m interested in Machine Learning and AI, specifically their application in a healthcare setting
-- 🌱 I’m currently learning Software Modelling and Design, Models of Computation, Declarative Programming and Introduction to Machine Learning
+- 🌱 I’m currently learning Software Requirements Analysis, Software Processes and Management and Computer Systems
 - 🤝 I’m looking to collaborate on Hack-a-thon projects and other related ideas
 
 <!---
