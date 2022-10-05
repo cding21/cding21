@@ -1,6 +1,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/Charlie_Ding-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/charlie-ding-227395201/)
-[![Gmail](https://img.shields.io/badge/charlie.ding.21-D14836?style=flat&logo=gmail&logoColor=white)]
+![Gmail](https://img.shields.io/badge/charlie.ding.21-D14836?style=flat&logo=gmail&logoColor=white)
 
 - 👋 Hi, I’m @cding21
 - 👀 I’m interested in Machine Learning and AI, specifically their application in a healthcare setting
