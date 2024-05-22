@@ -3,8 +3,8 @@
 ![Gmail](https://img.shields.io/badge/charlie.ding.21-D14836?style=flat&logo=gmail&logoColor=white)
 
 - 👋 Hi, I’m @cding21
-- 👀 I’m interested in Machine Learning and AI, specifically their application in a healthcare setting
-- 🌱 I’m currently learning High Integrity Systems Engineering, Masters Advanced Software Project and Critical Communication for Engineers
+- 👀 I’m interested in backend technologies such as Kafka, Vertx and more!
+- 🌱 I’m currently learning Modelling Complex Software Systems and Distributed Systems, which both utilise Java to model complex social problems and create unique applications such as a distributed whiteboard.
 - 🤝 I’m looking to collaborate on Hack-a-thon projects and other related ideas
 
 <!---
